@@ -1,0 +1,2751 @@
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 400 None
+STK push request failed with status code 400: {
+                    "requestId":"6e86-45dd-91ac-fd5d4178ab52241818",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid CallBackURL"
+                }
+            
+Bad Request: /api/appointments/create/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 400 None
+STK push request failed with status code 400: {
+                    "requestId":"be17-4b49-886b-71ba6eedc4f2264770",
+                    "errorCode": "400.002.02",
+                    "errorMessage": "Bad Request - Invalid CallBackURL"
+                }
+            
+Bad Request: /api/appointments/create/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Method Not Allowed: /api/payment_webhook/
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Method Not Allowed: /api/payment_webhook/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Method Not Allowed: /api/payment_webhook/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Received a non-POST request: GET
+Method Not Allowed: /api/payment_webhook/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Received a non-POST request: GET
+Method Not Allowed: /api/payment_webhook/
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 200 None
+Received a non-POST request: GET
+Method Not Allowed: /api/payment_webhook/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /api/appointments/61/feedback/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/appointments/61/feedback/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/appointments/61/feedback/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/appointments/61/feedback/
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\decorators.py", line 50, in handler
+    return func(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py", line 71, in create_specialist_feedback
+    print('Recieved data', data)
+NameError: name 'data' is not defined
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/appointments/61/feedback/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/appointments/61/feedback/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/appointments/61/feedback/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/appointments/61/feedback/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/appointments/61/feedback/
+Unauthorized: /api/appointments/
+Unauthorized: /api/appointments/1/feedback/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Bad Request: /api/appointments/62/feedback/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\info\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\info\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\info\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\info\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /api/reviews/
+Unauthorized: /api/reviews/
+C:\Users\mwanz\OneDrive\Desktop\Django\info\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\patients\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/review/1/
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2053, in get_prep_value
+    return int(value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 282, in get
+    return self.retrieve(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 83, in get_object
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py", line 66, in get_queryset
+    return Patient.objects.filter(user=self.request.user)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1492, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1319, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\related_lookups.py", line 166, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000002090EE9BD00>.
+Internal Server Error: /api/review/4/
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2053, in get_prep_value
+    return int(value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 282, in get
+    return self.retrieve(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 83, in get_object
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py", line 66, in get_queryset
+    return Patient.objects.filter(user=self.request.user)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1492, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1319, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\related_lookups.py", line 166, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000002090F097DF0>.
+Internal Server Error: /api/review/2/
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2053, in get_prep_value
+    return int(value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 282, in get
+    return self.retrieve(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 83, in get_object
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py", line 66, in get_queryset
+    return Patient.objects.filter(user=self.request.user)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1492, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1319, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\related_lookups.py", line 166, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000002090EE547C0>.
+Internal Server Error: /api/review/2/
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2053, in get_prep_value
+    return int(value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 282, in get
+    return self.retrieve(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 83, in get_object
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py", line 66, in get_queryset
+    return Patient.objects.filter(user=self.request.user)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1492, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1319, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\related_lookups.py", line 166, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000002090F0A7CA0>.
+Internal Server Error: /api/review/1/
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2053, in get_prep_value
+    return int(value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 282, in get
+    return self.retrieve(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 83, in get_object
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py", line 66, in get_queryset
+    return Patient.objects.filter(user=self.request.user)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1492, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1319, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\related_lookups.py", line 166, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000002090EF4D940>.
+Internal Server Error: /api/review/4/
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2053, in get_prep_value
+    return int(value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 282, in get
+    return self.retrieve(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 83, in get_object
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py", line 66, in get_queryset
+    return Patient.objects.filter(user=self.request.user)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1492, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1319, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\related_lookups.py", line 166, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000002090EEC34F0>.
+Internal Server Error: /api/review/4/
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2053, in get_prep_value
+    return int(value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 282, in get
+    return self.retrieve(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 83, in get_object
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py", line 66, in get_queryset
+    return Patient.objects.filter(user=self.request.user)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1492, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1319, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\related_lookups.py", line 166, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000002090F19DAF0>.
+Internal Server Error: /api/review/4/
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2053, in get_prep_value
+    return int(value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 282, in get
+    return self.retrieve(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 83, in get_object
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py", line 66, in get_queryset
+    return Patient.objects.filter(user=self.request.user)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1492, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1319, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\related_lookups.py", line 166, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000002090F19D0A0>.
+Internal Server Error: /api/review/1/
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2053, in get_prep_value
+    return int(value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 282, in get
+    return self.retrieve(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 83, in get_object
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py", line 66, in get_queryset
+    return Patient.objects.filter(user=self.request.user)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1492, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1319, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\related_lookups.py", line 166, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000002090EDD9610>.
+Internal Server Error: /api/review/4/
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2053, in get_prep_value
+    return int(value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 282, in get
+    return self.retrieve(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 83, in get_object
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py", line 66, in get_queryset
+    return Patient.objects.filter(user=self.request.user)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1492, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1319, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\related_lookups.py", line 166, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000002090F14E820>.
+Internal Server Error: /api/review/2/
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2053, in get_prep_value
+    return int(value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 282, in get
+    return self.retrieve(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 83, in get_object
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py", line 66, in get_queryset
+    return Patient.objects.filter(user=self.request.user)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1492, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1319, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\related_lookups.py", line 166, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000002090F1D26D0>.
+Internal Server Error: /api/review/4/
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2053, in get_prep_value
+    return int(value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\auth\models.py", line 437, in __int__
+    raise TypeError(
+TypeError: Cannot cast AnonymousUser to int. Are you trying to use it in place of User?
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 282, in get
+    return self.retrieve(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\mixins.py", line 54, in retrieve
+    instance = self.get_object()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 83, in get_object
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py", line 66, in get_queryset
+    return Patient.objects.filter(user=self.request.user)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1492, in build_filter
+    condition = self.build_lookup(lookups, col, value)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1319, in build_lookup
+    lookup = lookup_class(lhs, rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\lookups.py", line 27, in __init__
+    self.rhs = self.get_prep_lookup()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\related_lookups.py", line 166, in get_prep_lookup
+    self.rhs = target_field.get_prep_value(self.rhs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\fields\__init__.py", line 2055, in get_prep_value
+    raise e.__class__(
+TypeError: Field 'id' expected a number but got <django.contrib.auth.models.AnonymousUser object at 0x000002090EEBF280>.
+C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/review/2/
+Not Found: /api/review/4/
+Not Found: /api/review/2/
+Not Found: /api/review/4/
+Not Found: /api/review/4/
+Not Found: /api/review/4/
+Not Found: /api/review/4/
+Not Found: /favicon.ico
+Not Found: /api/review/2/
+Not Found: /api/review/3/
+Not Found: /api/review/4/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\info\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\info\admin.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\info\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\info\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\info\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Watching for file changes with StatReloader
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/appointments/
+Unauthorized: /api/appointments/
+Unauthorized: /api/appointments/
+Unauthorized: /api/appointments/
+Unauthorized: /api/appointments/
+Unauthorized: /api/appointments/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/appointments/
+Unauthorized: /api/appointments/
+Unauthorized: /api/appointments/
+Unauthorized: /api/appointments/
+Unauthorized: /api/appointments/
+Unauthorized: /api/appointments/
+Unauthorized: /api/appointments/
+Unauthorized: /api/appointments/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/appointments/
+Unauthorized: /api/appointments/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Bad Request: /api/patients/
+C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /api/patients/
+Bad Request: /api/patients/
+Bad Request: /api/patients/
+C:\Users\mwanz\OneDrive\Desktop\Django\patients\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/patients/create/
+C:\Users\mwanz\OneDrive\Desktop\Django\patients\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/patients/create/
+Bad Request: /api/patients/create/
+Unauthorized: /api/patients/create/
+Unauthorized: /api/patients/create/
+Unauthorized: /api/patients/create/
+Unauthorized: /api/patients/create/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /api/specialists/create/
+Unauthorized: /api/specialists/create/
+Internal Server Error: /api/specialists/create/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\models.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /admin/specialists/specialist/4/change/
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such column: specialists_specialist.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\options.py", line 1767, in _changeform_view
+    obj = self.get_object(request, unquote(object_id), to_field)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\options.py", line 866, in get_object
+    return queryset.get(**{field.name: object_id})
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 633, in get
+    num = len(clone)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such column: specialists_specialist.user_id
+Internal Server Error: /admin/specialists/specialist/
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such column: specialists_specialist.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\options.py", line 2065, in changelist_view
+    "selection_note": _("0 of %(cnt)s selected") % {"cnt": len(cl.result_list)},
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such column: specialists_specialist.user_id
+Internal Server Error: /admin/specialists/appointment/
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such column: specialists_specialist.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\options.py", line 2065, in changelist_view
+    "selection_note": _("0 of %(cnt)s selected") % {"cnt": len(cl.result_list)},
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such column: specialists_specialist.user_id
+Internal Server Error: /admin/specialists/specialist/
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such column: specialists_specialist.user_id
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\options.py", line 2065, in changelist_view
+    "selection_note": _("0 of %(cnt)s selected") % {"cnt": len(cl.result_list)},
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 380, in __len__
+    self._fetch_all()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1881, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 91, in __iter__
+    results = compiler.execute_sql(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such column: specialists_specialist.user_id
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\models.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/specialists/create/
+Unauthorized: /api/categories/
+Unauthorized: /api/categories/
+Unauthorized: /api/specialists/create/
+Unauthorized: /api/specialists/create/
+Unauthorized: /api/specialists/create/
+Unauthorized: /api/specialists/create/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Bad Request: /api/specialists/create/
+Bad Request: /api/specialists/create/
+Bad Request: /api/specialists/create/
+Bad Request: /api/specialists/create/
+Bad Request: /api/specialists/create/
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Bad Request: /api/specialists/create/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/token/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 404 None
+STK push request failed with status code 404: {
+                    "requestId":"6e86-45dd-91ac-fd5d4178ab52321446",
+                    "errorCode": "404.001.03",
+                    "errorMessage": "Invalid Access Token"
+                }
+            
+Bad Request: /api/appointments/create/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/patients/
+Not Found: /api/patients/
+Not Found: /api/patients/
+Not Found: /api/patients/
+C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/patients/
+Not Found: /api/patients/
+Not Found: /api/patients/
+Not Found: /api/patients/
+Bad Request: /api/patients/create/
+Unauthorized: /api/patients/create/
+Not Found: /api/patients/
+Not Found: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+Error creating appointment and initiating STK push: HTTPSConnectionPool(host='sandbox.safaricom.co.ke', port=443): Max retries exceeded with url: /mpesa/stkpush/v1/processrequest (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000011ABA713F70>: Failed to resolve 'sandbox.safaricom.co.ke' ([Errno 11001] getaddrinfo failed)"))
+Internal Server Error: /api/appointments/create/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /api/patients/
+Unauthorized: /api/appointments/specialist/
+Unauthorized: /api/appointments/specialist/
+Internal Server Error: /api/appointments/specialist/
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 239, in get
+    return self.list(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py", line 118, in get_queryset
+    return Appointment.objects.filter(specialist=self.request.user).order_by('-date_time')
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1465, in build_filter
+    self.check_related_objects(join_info.final_field, value, join_info.opts)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1276, in check_related_objects
+    self.check_query_object_type(value, opts, field)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1253, in check_query_object_type
+    raise ValueError(
+ValueError: Cannot query "Julius": Must be "Specialist" instance.
+Internal Server Error: /api/appointments/specialist/
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\generics.py", line 239, in get
+    return self.list(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py", line 118, in get_queryset
+    return Appointment.objects.filter(specialist=self.request.user).order_by('-date_time')
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1436, in filter
+    return self._filter_or_exclude(False, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1454, in _filter_or_exclude
+    clone._filter_or_exclude_inplace(negate, args, kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1461, in _filter_or_exclude_inplace
+    self._query.add_q(Q(*args, **kwargs))
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1546, in add_q
+    clause, _ = self._add_q(q_object, self.used_aliases)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1577, in _add_q
+    child_clause, needed_inner = self.build_filter(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1465, in build_filter
+    self.check_related_objects(join_info.final_field, value, join_info.opts)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1276, in check_related_objects
+    self.check_query_object_type(value, opts, field)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\query.py", line 1253, in check_query_object_type
+    raise ValueError(
+ValueError: Cannot query "Julius": Must be "Specialist" instance.
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/patients/3/
+Not Found: /api/patients/1/
+Not Found: /api/patients/3/
+Not Found: /api/patients/1/
+Not Found: /api/patients/3/
+Not Found: /api/patients/1/
+Not Found: /api/patients/3/
+Not Found: /api/patients/1/
+Not Found: /api/patients/3/
+Not Found: /api/patients/1/
+Not Found: /api/patients/3/
+Not Found: /api/patients/1/
+Not Found: /api/patients/3/
+Not Found: /api/patients/1/
+Not Found: /api/patients/3/
+Not Found: /api/patients/1/
+Not Found: /api/patients/3/
+Not Found: /api/patients/1/
+Not Found: /api/patients/3/
+Not Found: /api/patients/1/
+Not Found: /api/patients/3/
+Not Found: /api/patients/1/
+C:\Users\mwanz\OneDrive\Desktop\Django\patients\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/appointment/patients//1/
+Not Found: /api/appointment/patients//3/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /api/appointment/patients//3/
+Not Found: /api/appointment/patients//1/
+Not Found: /api/appointment/patients//1/
+Not Found: /api/appointment/patients//3/
+Unauthorized: /api/appointments/specialist/
+Unauthorized: /api/appointments/specialist/
+Unauthorized: /api/appointments/specialist/
+Unauthorized: /api/appointments/specialist/
+Unauthorized: /api/appointments/specialist/
+Internal Server Error: /admin/specialists/appointment/64/change/
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: database is locked
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\options.py", line 688, in wrapper
+    return self.admin_site.admin_view(view)(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\decorators\cache.py", line 62, in _wrapper_view_func
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\sites.py", line 242, in inner
+    return view(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\options.py", line 1889, in change_view
+    return self.changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\utils\decorators.py", line 134, in _wrapper_view
+    response = view_func(request, *args, **kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\options.py", line 1747, in changeform_view
+    return self._changeform_view(request, object_id, form_url, extra_context)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\options.py", line 1798, in _changeform_view
+    self.save_model(request, new_object, form, not add)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\contrib\admin\options.py", line 1227, in save_model
+    obj.save()
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\base.py", line 990, in _save_table
+    updated = self._do_update(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\base.py", line 1054, in _do_update
+    return filtered._update(values) > 0
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\query.py", line 1231, in _update
+    return query.get_compiler(self.db).execute_sql(CURSOR)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1984, in execute_sql
+    cursor = super().execute_sql(result_type)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 102, in execute
+    return super().execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: database is locked
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /api/appointments/specialist/
+Unauthorized: /api/appointments/specialist/
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Not Found: /favicon.ico
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /api/appointments/specialist/
+Unauthorized: /api/appointments/specialist/
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Watching for file changes with StatReloader
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /api/patients/
+Not Found: /api/patients/
+Not Found: /api/patients/
+Not Found: /api/patients/
+C:\Users\mwanz\OneDrive\Desktop\Django\info\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\info\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Not Found: /favicon.ico
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/token/
+Not Found: /favicon.ico
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Bad Request: /api/notifications/createNotification/
+C:\Users\mwanz\OneDrive\Desktop\Django\info\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Bad Request: /api/notifications/createNotification/
+C:\Users\mwanz\OneDrive\Desktop\Django\info\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/notifications/createNotification/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Bad Request: /api/notifications/createNotification/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Bad Request: /api/notifications/createNotification/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Bad Request: /api/notifications/createNotification/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+C:\Users\mwanz\OneDrive\Desktop\Django\info\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 404 None
+STK push request failed with status code 404: {
+                    "requestId":"53e3-4aa8-9fe0-8fb5e4092cdd350001",
+                    "errorCode": "404.001.03",
+                    "errorMessage": "Invalid Access Token"
+                }
+            
+Bad Request: /api/appointments/create/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Watching for file changes with StatReloader
+Not Found: /favicon.ico
+Not Found: /favicon.ico
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Watching for file changes with StatReloader
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Watching for file changes with StatReloader
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Watching for file changes with StatReloader
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Internal Server Error: /media/doctor_profile_pics/docprofile_lJODfTt.jpg  || avatar
+Traceback (most recent call last):
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\mwanz\OneDrive\Desktop\Django\venv\lib\site-packages\django\views\static.py", line 35, in serve
+    if fullpath.is_dir():
+  File "C:\Program Files\Python38\lib\pathlib.py", line 1398, in is_dir
+    return S_ISDIR(self.stat().st_mode)
+  File "C:\Program Files\Python38\lib\pathlib.py", line 1189, in stat
+    return self._accessor.stat(self)
+OSError: [WinError 123] The filename, directory name, or volume label syntax is incorrect: 'C:\\Users\\mwanz\\OneDrive\\Desktop\\Django\\media\\doctor_profile_pics\\docprofile_lJODfTt.jpg  || avatar'
+Not Found: /null  || avatar
+Not Found: //media/doctor_profile_pics/docprofile_lJODfTt.jpg  || avatar
+Not Found: //media/doctor_profile_pics/docprofile_lJODfTt.jpg
+Not Found: /null
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /null
+Not Found: //media/doctor_profile_pics/docprofile_lJODfTt.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+Not Found: //media/doctor_profile_pics/AboutImage.jpg
+Not Found: //media/doctor_profile_pics/docprofile_lJODfTt.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: //media/doctor_profile_pics/AboutImage.jpg
+Not Found: //media/doctor_profile_pics/docprofile_lJODfTt.jpg
+Not Found: //media/doctor_profile_pics/docprofile_lJODfTt.jpg
+Not Found: //media/doctor_profile_pics/AboutImage.jpg
+tag: ImageWidth (256) - type: short (3) - value: b'\x18\x01'
+tag: ImageLength (257) - type: short (3) - value: b'\x18\x01'
+tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 158 - value: b'\x08\x00\x08\x00\x08\x00'
+tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x02\x00'
+tag: Orientation (274) - type: short (3) - value: b'\x01\x00'
+tag: SamplesPerPixel (277) - type: short (3) - value: b'\x03\x00'
+tag: XResolution (282) - type: rational (5) Tag Location: 94 - Data Location: 164 - value: b"\x80\xfc\n\x00\x10'\x00\x00"
+tag: YResolution (283) - type: rational (5) Tag Location: 106 - Data Location: 172 - value: b"\x80\xfc\n\x00\x10'\x00\x00"
+tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
+tag: Software (305) - type: string (2) Tag Location: 130 - Data Location: 180 - value: b'Adobe Photoshop CS6 (Windows)\x00'
+tag: DateTime (306) - type: string (2) Tag Location: 142 - Data Location: 210 - value: b'2015:12:09 14:19:43\x00'
+tag: ExifIFD (34665) - type: long (4) - value: b'\xe8\x00\x00\x00'
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: //media/doctor_profile_pics/pic-team-4.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: //media/doctor_profile_pics/pic-team-4.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: //media/doctor_profile_pics/pic-team-4.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /admin/myapp/language/
+tag: ImageWidth (256) - type: short (3) - value: b'\x07\xd0'
+tag: ImageLength (257) - type: short (3) - value: b'\x04\x8f'
+tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 158 - value: b'\x00\x08\x00\x08\x00\x08'
+tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x00\x02'
+tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+tag: SamplesPerPixel (277) - type: short (3) - value: b'\x00\x03'
+tag: XResolution (282) - type: rational (5) Tag Location: 94 - Data Location: 164 - value: b"\x00-\xc6\xc0\x00\x00'\x10"
+tag: YResolution (283) - type: rational (5) Tag Location: 106 - Data Location: 172 - value: b"\x00-\xc6\xc0\x00\x00'\x10"
+tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+tag: Software (305) - type: string (2) Tag Location: 130 - Data Location: 180 - value: b'Adobe Photoshop CS6 (Windows)\x00'
+tag: DateTime (306) - type: string (2) Tag Location: 142 - Data Location: 210 - value: b'2015:12:09 12:49:45\x00'
+tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xe8'
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /
+Not Found: /favicon.ico
+Not Found: /
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /
+Not Found: /
+Not Found: /
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\admin.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\patients\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\models.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /
+Not Found: /
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+tag: ImageWidth (256) - type: short (3) - value: b'\x18\x01'
+tag: ImageLength (257) - type: short (3) - value: b'\x18\x01'
+tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 158 - value: b'\x08\x00\x08\x00\x08\x00'
+tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x02\x00'
+tag: Orientation (274) - type: short (3) - value: b'\x01\x00'
+tag: SamplesPerPixel (277) - type: short (3) - value: b'\x03\x00'
+tag: XResolution (282) - type: rational (5) Tag Location: 94 - Data Location: 164 - value: b"\x80\xfc\n\x00\x10'\x00\x00"
+tag: YResolution (283) - type: rational (5) Tag Location: 106 - Data Location: 172 - value: b"\x80\xfc\n\x00\x10'\x00\x00"
+tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
+tag: Software (305) - type: string (2) Tag Location: 130 - Data Location: 180 - value: b'Adobe Photoshop CS6 (Windows)\x00'
+tag: DateTime (306) - type: string (2) Tag Location: 142 - Data Location: 210 - value: b'2015:12:09 14:15:49\x00'
+tag: ExifIFD (34665) - type: long (4) - value: b'\xe8\x00\x00\x00'
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+tag: ImageWidth (256) - type: short (3) - value: b'\x07\xd0'
+tag: ImageLength (257) - type: short (3) - value: b'\x04\x8f'
+tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 158 - value: b'\x00\x08\x00\x08\x00\x08'
+tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x00\x02'
+tag: Orientation (274) - type: short (3) - value: b'\x00\x01'
+tag: SamplesPerPixel (277) - type: short (3) - value: b'\x00\x03'
+tag: XResolution (282) - type: rational (5) Tag Location: 94 - Data Location: 164 - value: b"\x00-\xc6\xc0\x00\x00'\x10"
+tag: YResolution (283) - type: rational (5) Tag Location: 106 - Data Location: 172 - value: b"\x00-\xc6\xc0\x00\x00'\x10"
+tag: ResolutionUnit (296) - type: short (3) - value: b'\x00\x02'
+tag: Software (305) - type: string (2) Tag Location: 130 - Data Location: 180 - value: b'Adobe Photoshop CS6 (Windows)\x00'
+tag: DateTime (306) - type: string (2) Tag Location: 142 - Data Location: 210 - value: b'2015:12:09 12:49:45\x00'
+tag: ExifIFD (34665) - type: long (4) - value: b'\x00\x00\x00\xe8'
+Not Found: /
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /
+Not Found: /
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /
+Not Found: /
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\models.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 404 None
+STK push request failed with status code 404: {
+                    "requestId":"c0d2-4b9a-a71a-12bae346ef6e527700",
+                    "errorCode": "404.001.03",
+                    "errorMessage": "Invalid Access Token"
+                }
+            
+Bad Request: /api/appointments/create/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+tag: ImageWidth (256) - type: short (3) - value: b'\x18\x01'
+tag: ImageLength (257) - type: short (3) - value: b'\x18\x01'
+tag: BitsPerSample (258) - type: short (3) Tag Location: 46 - Data Location: 158 - value: b'\x08\x00\x08\x00\x08\x00'
+tag: PhotometricInterpretation (262) - type: short (3) - value: b'\x02\x00'
+tag: Orientation (274) - type: short (3) - value: b'\x01\x00'
+tag: SamplesPerPixel (277) - type: short (3) - value: b'\x03\x00'
+tag: XResolution (282) - type: rational (5) Tag Location: 94 - Data Location: 164 - value: b"\x80\xfc\n\x00\x10'\x00\x00"
+tag: YResolution (283) - type: rational (5) Tag Location: 106 - Data Location: 172 - value: b"\x80\xfc\n\x00\x10'\x00\x00"
+tag: ResolutionUnit (296) - type: short (3) - value: b'\x02\x00'
+tag: Software (305) - type: string (2) Tag Location: 130 - Data Location: 180 - value: b'Adobe Photoshop CS6 (Windows)\x00'
+tag: DateTime (306) - type: string (2) Tag Location: 142 - Data Location: 210 - value: b'2015:12:09 14:12:08\x00'
+tag: ExifIFD (34665) - type: long (4) - value: b'\xe8\x00\x00\x00'
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\patients\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/patients/
+Not Found: /api/patients/
+STREAM b'IHDR' 16 13
+STREAM b'pHYs' 41 9
+STREAM b'iCCP' 62 2639
+iCCP profile name b'Photoshop ICC profile'
+Compression method 0
+STREAM b'cHRM' 2713 32
+STREAM b'IDAT' 2757 180416
+Importing BlpImagePlugin
+Importing BmpImagePlugin
+Importing BufrStubImagePlugin
+Importing CurImagePlugin
+Importing DcxImagePlugin
+Importing DdsImagePlugin
+Importing EpsImagePlugin
+Importing FitsImagePlugin
+Importing FliImagePlugin
+Importing FpxImagePlugin
+Image: failed to import FpxImagePlugin: No module named 'olefile'
+Importing FtexImagePlugin
+Importing GbrImagePlugin
+Importing GifImagePlugin
+Importing GribStubImagePlugin
+Importing Hdf5StubImagePlugin
+Importing IcnsImagePlugin
+Importing IcoImagePlugin
+Importing ImImagePlugin
+Importing ImtImagePlugin
+Importing IptcImagePlugin
+Importing JpegImagePlugin
+Importing Jpeg2KImagePlugin
+Importing McIdasImagePlugin
+Importing MicImagePlugin
+Image: failed to import MicImagePlugin: No module named 'olefile'
+Importing MpegImagePlugin
+Importing MpoImagePlugin
+Importing MspImagePlugin
+Importing PalmImagePlugin
+Importing PcdImagePlugin
+Importing PcxImagePlugin
+Importing PdfImagePlugin
+Importing PixarImagePlugin
+Importing PngImagePlugin
+Importing PpmImagePlugin
+Importing PsdImagePlugin
+Importing QoiImagePlugin
+Importing SgiImagePlugin
+Importing SpiderImagePlugin
+Importing SunImagePlugin
+Importing TgaImagePlugin
+Importing TiffImagePlugin
+Importing WebPImagePlugin
+Importing WmfImagePlugin
+Importing XbmImagePlugin
+Importing XpmImagePlugin
+Importing XVThumbImagePlugin
+C:\Users\mwanz\OneDrive\Desktop\Django\info\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\info\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Bad Request: /api/specialist/update/6/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Bad Request: /api/specialist/update/6/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Bad Request: /api/specialist/update/6/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Bad Request: /api/specialist/update/6/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/specialist/update/undefined/
+Bad Request: /api/specialist/update/6/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/specialist/update/6/
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\models.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Starting new HTTPS connection (1): sandbox.safaricom.co.ke:443
+https://sandbox.safaricom.co.ke:443 "POST /mpesa/stkpush/v1/processrequest HTTP/1.1" 404 None
+STK push request failed with status code 404: {
+                    "requestId":"c4dd-4669-a173-d5cee84d66e92422197",
+                    "errorCode": "404.001.03",
+                    "errorMessage": "Invalid Access Token"
+                }
+            
+Bad Request: /api/appointments/create/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+C:\Users\mwanz\OneDrive\Desktop\Django\info\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\mwanz\OneDrive\Desktop\Django\info\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+C:\Users\mwanz\OneDrive\Desktop\Django\info\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /create_review/
+C:\Users\mwanz\OneDrive\Desktop\Django\info\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /create_review/
+Not Found: /create_review/
+C:\Users\mwanz\OneDrive\Desktop\Django\info\urls.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Bad Request: /api/review/create/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/token/
+Not Found: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/patients/
+Not Found: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/patients/
+Not Found: /api/patients/
+Not Found: /api/patients/
+Not Found: /api/patients/
+Not Found: /api/patients/
+Not Found: /api/patients/
+Not Found: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Not Found: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/token/
+Not Found: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/patients/
+Not Found: /api/patients/
+Not Found: /api/patients/
+Not Found: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/token/
+Not Found: /api/patients/
+Not Found: /api/patients/
+Not Found: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/specialists/specialist/
+Not Found: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/token/
+Unauthorized: /api/token/
+Not Found: /api/patients/
+Not Found: /api/patients/
+Not Found: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/patients/
+Not Found: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/notifications/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/notifications/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/notifications/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/notifications/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/notifications/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/notifications/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/notifications/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/notifications/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/notifications/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/notifications/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/notifications/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/notifications/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/notifications/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/notifications/
+Unauthorized: /api/specialists/specialist/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/specialists/specialist/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Unauthorized: /api/patients/
+Unauthorized: /api/appointments/
+Unauthorized: /api/appointments/
+Unauthorized: /api/patients/
+Unauthorized: /api/specialists/specialist/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Unauthorized: /api/specialists/specialist/
+Unauthorized: /api/patients/
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+Not Found: /media/patient_profile_pics/g81_WLAPeER.jpg
+C:\Users\mwanz\OneDrive\Desktop\Django\specialists\views.py changed, reloading.
+Watching for file changes with StatReloader
